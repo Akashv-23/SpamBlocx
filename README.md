@@ -1,4 +1,4 @@
-# SMS Spam Detection System using Deep Learning in TensorFlow2
+# SMS Spam Detection System using Deep Learning and NLP
 
 <p align="center">
   <img src="images/spam_sms_image_01.png" width="900">
