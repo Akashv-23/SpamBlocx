@@ -34,7 +34,8 @@ The accuracy of the models is compared and evaluated to select the best one.<br>
 └── requirements.txt
 
 ```
-<br>
+<br><br>
+
 
 ### Steps Involved :
 The following steps are involved in the project:<br>
@@ -50,6 +51,8 @@ The following steps are involved in the project:<br>
 5. Use the Final Trained Classifier to Classify New Messages: The final model is used to classify new messages as ham or spam.<br>
 
 
+<br>
+<br>
 
 ### Accuracy of the Models :
 The accuracy of the models is as follows: <br>
@@ -59,7 +62,8 @@ SVM - 97.6%<br>
 Bi-LSTM - 98.8%<br>
 LSTM - 98.6%<br>
 
-
+<br>
+<br>
 
 # Create & activate virtual environment
 python -m venv venv
