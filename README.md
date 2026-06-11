@@ -58,9 +58,9 @@ The following steps are involved in the project:<br>
 The accuracy of the models is as follows: <br>
 
 Dense Network - 98.5%<br>
-SVM - 97.6%<br>
-Bi-LSTM - 98.8%<br>
-LSTM - 98.6%<br>
+SVM - 89.6%<br>
+Bi-LSTM - 93.8%<br>
+LSTM - 90.1%<br>
 
 <br>
 <br>
