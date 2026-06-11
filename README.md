@@ -57,9 +57,9 @@ The following steps are involved in the project:<br>
 ### Accuracy of the Models :
 The accuracy of the models is as follows: <br>
 
-Dense Network - 98.5%<br>
+Dense Network - 94.3%<br>
 SVM - 89.6%<br>
-Bi-LSTM - 93.8%<br>
+Bi-LSTM - 92.8%<br>
 LSTM - 90.1%<br>
 
 <br>
