@@ -1,4 +1,10 @@
 numpy==1.23.5
 streamlit==1.21.0
 tensorflow==2.12.0
+wordcloud
+pandas
+matplotlib
+seaborn
+nltk
+keras
 
